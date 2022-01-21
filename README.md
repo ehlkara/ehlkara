@@ -41,10 +41,11 @@
     
 <h3>Statistical Data :</h3>
 <p><img align="center" style="width:338px" src="https://github-readme-stats.vercel.app/api?username=ehlkara&show_icons=true&locale=en&theme=default"
-    alt="idilbls" />
+    alt="ehlkara" />
 <img align="center" style="width:285px; height:197px;"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=ehlkara&show_icons=true&locale=en&layout=compact&theme=default"
-    alt="idilbls" /></p>
+    alt="ehlkara" /></p>
+<div  align="center"> <img src="https://github.com/ehlkara/ehlkara/blob/output/github-contribution-grid-snake.svg" /></div>
 <!--
 **ehlkara/ehlkara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
